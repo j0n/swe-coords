@@ -1,0 +1,11 @@
+{
+  "name": "swe-coords",
+  "version": "1.0.0",
+  "description": "node lib to convert swedish cordinate system sweref 99 to WGS84",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
